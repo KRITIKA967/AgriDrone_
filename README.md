@@ -1,4 +1,4 @@
-**🌾 AgriDrone – Smart Agricultural Drone Monitoring System**
+*******🌾 AgriDrone – Smart Agricultural Drone Monitoring System*******
 
 Empowering farmers through AI-powered drone technology for smarter, data-driven farming.
 
